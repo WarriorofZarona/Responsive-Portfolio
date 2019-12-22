@@ -1,5 +1,5 @@
-.jumbotron {
+body {
 
-    background: #ffffff;
-
+    background-color: #ffffff;
+    background-image: url("../images/background.png");
 }
