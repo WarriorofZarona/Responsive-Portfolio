@@ -7,12 +7,11 @@ body {
 
 }
 
-.footer,  {
+/* This helps determine size of each image in portfolio.html */
 
-    flex-shrink: 0;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 80px;
+.imgsize {
 
+width: 300px;
+height: 200px;
+margin: 15px auto;
 }
