@@ -24,3 +24,9 @@ body {
     height: 200px;
     margin: 15px auto;
 }
+
+.outline {
+    color: #fff;
+    text-shadow: #000 0px 0px 5px;
+    -webkit-font-smoothing: antialiased;
+}
