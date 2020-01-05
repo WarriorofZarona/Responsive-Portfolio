@@ -25,6 +25,8 @@ body {
     margin: 15px auto;
 }
 
+/* This helps give a text outline to the captions of the portfolio images, making them easier to read on images even in text-light */
+
 .outline {
     color: #fff;
     text-shadow: #000 0px 0px 5px;
