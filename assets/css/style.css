@@ -1,3 +1,5 @@
+/* This code is mainly for the sticky footer code, except for background color and image */
+
 html, body {
     height: 100%;
 }
@@ -25,7 +27,7 @@ body {
     margin: 15px auto;
 }
 
-/* This helps give a text outline to the captions of the portfolio images, making them easier to read on images even in text-light */
+/* This helps give a text outline to the captions of the portfolio images, making them easier to read even in text-light */
 
 .outline {
     color: #fff;
